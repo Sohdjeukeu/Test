@@ -5,7 +5,7 @@ public class Etudiant {
 	public static void main(String[] args) 
 	{
 		
-		  String merlin = "merlin à lui à Dramane";
+		  String merlin = "Bonjour  Dramane";
 		
 		 System.out.println(merlin);
 	}
